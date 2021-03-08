@@ -1,6 +1,6 @@
 # weather-the-storm
 
-User will type city in input and the autofill will present a series of cities to choose from. 
+User will type city into input and the autofill will present a series of cities to choose from. 
 User can see a 7 city search history.
 User is presented with a current conditions card and a 7 day forecast for the location user selected. 
 
