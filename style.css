@@ -1,0 +1,55 @@
+* {
+    box-sizing:border-box;
+  }
+
+  @media only screen and (max-width:620px) {
+    
+    .card-panel, .card-panel, .h2, .spacer, .header,
+    h1, .row {
+      width:100%;}}
+  
+.text-sizing{
+    font-size: 3vw;
+}
+
+.card-panel{
+    border-style: inset;
+    
+}
+
+/* #center-panel{
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+} */
+
+
+h2{
+    font-size: 25px;
+}
+
+.spacer {
+    width: 175px;
+}
+
+.header {
+text-align: center;
+font-size:3vw;
+font-family: 'Cardo', serif;
+color: white;
+}
+
+
+
+
+h1 {
+    
+    color: rgb(66, 134, 222);
+    font-size:2vw;
+    text-align: center;
+    border: 1px solid rgb(66,134,222);
+    margin-left: 475px;
+    width: 500px;
+    height: auto;
+
+    }
