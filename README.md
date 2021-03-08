@@ -11,7 +11,6 @@ deployed location:
 <a href="https://ward438.github.io/weather-the-storm/">View Page</a>
 
 
-<img src="https://github.com/ward438/weather-the-storm/blob/main/Screen%20Shot%202021-03-08%20at%201.39.01%20PM.png?raw=true
-" alt="image preview"
+<img src="https://github.com/ward438/weather-the-storm/blob/main/Screen%20Shot%202021-03-08%20at%201.39.01%20PM.png" alt="image preview"
 width="500px"/>
 
